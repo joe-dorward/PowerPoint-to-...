@@ -1,4 +1,4 @@
-' PowerPoint_To_Word_13
+' PowerPoint_To_Word_13.bas
 ' GLOBAL VARIABLES
 Dim AbsoluteDocumentPath As String
 Dim DocumentFilename As String
